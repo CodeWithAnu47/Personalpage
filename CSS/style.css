@@ -1,0 +1,12 @@
+body {
+    background-color: #B9F3FC;
+}
+
+hr {
+    border-style: dotted;
+}
+
+.photo {
+    height: 140px;
+    width: 140px;
+}
